@@ -1,1 +1,1 @@
-# ai-chatnbot
+# ai-chatbot
